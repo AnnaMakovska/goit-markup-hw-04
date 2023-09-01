@@ -324,9 +324,6 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
   justify-content: center;
   gap: 24px;
 }
-/* .social-media { 
- 
-}*/
 .social-media {
   fill: #f4f4fd;
 }
@@ -338,8 +335,7 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
   background-color: #4d5ae5;
   width: 40px;
   height: 40px;
-  transition-property: background-color;
-  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1); 
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-media-link:hover,
 .social-media-link:focus {
