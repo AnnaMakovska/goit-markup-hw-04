@@ -388,3 +388,6 @@ img {
 .navigation-list-item:focus {
   border-bottom: solid 4px #404bbf;
 }
+.footer-second-wrapper .social-media-list {
+ gap: 16px;
+}
