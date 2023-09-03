@@ -217,6 +217,7 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
+  margin: 0 auto;
 }
 .h-one {
   margin-bottom: 48px;
@@ -304,7 +305,6 @@ box-shadow: 0px 1px 6px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47,
 }
 .footer-text {
   width: 264px;
-  margin-top: 18px;
 }
 .footer-logo {
   display: inline-block;
